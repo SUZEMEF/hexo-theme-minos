@@ -1,7 +1,7 @@
 menu:
-    Archives: /archives
-    Categories: /categories
-    About: /about
+    归档: /archives
+    分类: /categories
+    关于: /about
 
 logo:
     text: SUZEMEF
