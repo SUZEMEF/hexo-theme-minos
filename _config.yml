@@ -1,0 +1,15 @@
+menu:
+    Archives: /archives
+    Categories: /categories
+    About: /about
+
+logo:
+    text: SUZEMEF
+
+navbar_links:
+  RSS:
+    icon: fas fa-rss
+    url: https://SUZEMEF.github.io/atom.xml
+
+search:
+    type: insight
