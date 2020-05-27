@@ -3,6 +3,12 @@ menu:
     Categories: /categories
     About: /about
 
+article:
+    # Show word count and estimated reading time.
+    readtime: true
+    # Code highlight theme, please see https://highlightjs.org/static/demo/
+    highlight: atom-one-dark    
+
 logo:
     text: SUZEMEF
 
